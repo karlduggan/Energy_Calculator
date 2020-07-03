@@ -39,5 +39,5 @@ When the program is running the user will be brought to main menu where they wil
 Back-billing is where customers may receive a back-bill or a catch-up bill from their energy supplier when they haven't been correctly billed for their energy usage.
 
 ## License & copyright
-open
+
 
