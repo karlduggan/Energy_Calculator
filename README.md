@@ -8,7 +8,7 @@ What this program is used for:
 This text-base program was written to help calculate energy consumption for both gas and electric. It makes its calculation when the user selects (export reports), to which it generates a text file report for both energy's. 
 
 ![screenshot](screenshot.png)
-Format: ![Alt Text](url)
+
 
 ## How to use:
 
