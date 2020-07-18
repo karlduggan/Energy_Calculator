@@ -6,6 +6,9 @@ What this program is used for:
 - Generate a report of findings 
 
 This text-base program was written to help calculate energy consumption for both gas and electric. It makes its calculation when the user selects (export reports), to which it generates a text file report for both energy's. 
+<br/>
+<img src="energy_demo.gif">
+<br/>
 
 ![screenshot](screenshot.png)
 
